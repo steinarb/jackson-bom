@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<features xmlns="http://karaf.apache.org/xmlns/features/v1.4.0" name="handlereg">
+    <repository>mvn:com.fasterxml.jackson.core/jackson-annotations/${jackson.version.annotations}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.core/jackson-core/${jackson.version.core}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.core/jackson-databind/${jackson.version.databind}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.module/jackson-module-afterburner/${jackson.version.module}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.module/jackson-module-guice/${jackson.version.module}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.module/jackson-module-jaxb-annotations/${jackson.version.module}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.module/jackson-module-mrbean/${jackson.version.module}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.module/jackson-module-osgi/${jackson.version.module}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.module/jackson-module-paranamer/${jackson.version.module}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.datatype/jackson-datatype-guava/${jackson.version.datatype}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.dataformat/jackson-dataformat-xml/${jackson.version.dataformat}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.dataformat/jackson-dataformat-cbor/${jackson.version.dataformat}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.dataformat/jackson-dataformat-smile/${jackson.version.dataformat}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.dataformat/jackson-dataformat-avro/${jackson.version.dataformat}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.datatype/jackson-datatype-hppc/${jackson.version.datatype}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.datatype/jackson-datatype-pcollections/${jackson.version.datatype}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.datatype/jackson-datatype-eclipse-collections/${jackson.version.datatype}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.dataformat/jackson-dataformat-protobuf/${jackson.version.dataformat}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.dataformat/jackson-dataformat-ion/${jackson.version.dataformat}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.datatype/jackson-datatype-hibernate3/${jackson.version.datatype}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.datatype/jackson-datatype-hibernate4/${jackson.version.datatype}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.datatype/jackson-datatype-hibernate5/${jackson.version.datatype}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.dataformat/jackson-dataformat-csv/${jackson.version.dataformat}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.dataformat/jackson-dataformat-properties/${jackson.version.dataformat}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.dataformat/jackson-dataformat-yaml/${jackson.version.dataformat}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.datatype/jackson-datatype-joda/${jackson.version.datatype}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.datatype/jackson-datatype-json-org/${jackson.version.datatype}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.datatype/jackson-datatype-jsr353/${jackson.version.datatype}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.jaxrs/jackson-jaxrs-base/${jackson.version.jaxrs}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.datatype/jackson-datatype-jaxrs/${jackson.version.datatype}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.jaxrs/jackson-jaxrs-cbor-provider/${jackson.version.jaxrs}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.jaxrs/jackson-jaxrs-json-provider/${jackson.version.jaxrs}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.jaxrs/jackson-jaxrs-smile-provider/${jackson.version.jaxrs}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.jaxrs/jackson-jaxrs-xml-provider/${jackson.version.jaxrs}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.jaxrs/jackson-jaxrs-yaml-provider/${jackson.version.jaxrs}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.jr/jackson-jr-objects/${jackson.version.jacksonjr}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.jr/jackson-jr-retrofit2/${jackson.version.jacksonjr}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.jr/jackson-jr-stree/${jackson.version.jacksonjr}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.module/jackson-module-jsonSchema/${jackson.version.module}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.module/jackson-module-parameter-names/${jackson.version.module}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.datatype/jackson-datatype-jdk8/${jackson.version.datatype}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.datatype/jackson-datatype-jsr310/${jackson.version.datatype}/xml/features</repository>
+    <repository>mvn:com.fasterxml.jackson.module/jackson-module-kotlin/${jackson.version.module}/xml/features</repository>
+</features>
